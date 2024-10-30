@@ -1,7 +1,7 @@
 - 👋 Hi, I’m EbuenDev
 - 👀 I’m interested in learning more about programming 
 - 🌱 I’m currently learning webdevelopment using HTML | CSS | JavaScript
-- 📫 How to reach me this is my contact information ianebuen2001@gmail.com
+- 📫 How to reach me this is my contact information markianebuen@outlook.com
 - ⚡ Fun fact: i am a developer but i love playing musical instruments such as guitar, piano and more.
 
 <!---
