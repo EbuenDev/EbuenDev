@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kolokoydev&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolokoydev&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EbuenDev&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbuenDev&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
@@ -53,5 +53,5 @@ Pin your top repositories from the repo’s homepage, using the "Customize your 
 ### 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kolokoydev&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EbuenDev&theme=github-compact" />
 </p>
