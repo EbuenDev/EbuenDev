@@ -44,14 +44,3 @@
 
 ---
 
-### 📌 Pinned Projects
-
-Pin your top repositories from the repo’s homepage, using the "Customize your pins" button.
-
----
-
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EbuenDev&theme=github-compact" />
-</p>
