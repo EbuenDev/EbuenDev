@@ -1,9 +1,13 @@
-<img width="56" height="56" alt="Group 37317" src="https://github.com/user-attachments/assets/d2dc21dc-81cd-425c-b4db-b8804f7eee95" /><h1 align="center">👋 Hi there! I'm Mark Ian Ebuen (@EbuenDev)</h1>
+# 🔥 Ebuen Dev
+
+**`Android Developer (UI/UX | musician | Mountaineer)`**
+
+I'm an entry-level Android programmer and a musician from the Philippines. I enjoy building mobile applications using Java and Room Database, especially projects that improve local community systems. Outside of coding, I spend time creating music and exploring creativity in sound and software.
+Currently, I'm focused on learning better mobile architecture, publishing apps, and combining tech with real-world impact.
+
 
 <p align="center">
-  <b>Android Developer | Java | Firebase | SQL | Springboot | Unity | </b>
-  🧑‍🎓 Studied Bachelor of Science in Computer Science
-  💭 Currently improving skills and learning new tech in Android Development
+  <b>Android Developer | Java | Firebase | SQL | Git | Adobe XD | Adobe Photoshop </b>
 </p>
 
 ---
@@ -27,6 +31,7 @@
   <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">
   
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
+  <img width="56" height="56" alt="Group 37317" src="https://github.com/user-attachments/assets/d2dc21dc-81cd-425c-b4db-b8804f7eee95" /><h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" />
@@ -67,6 +72,8 @@
 </p>
 
 ---
+
+
 
 ### 🌐 Connect with Me
 
