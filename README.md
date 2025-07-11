@@ -8,22 +8,41 @@
 
 <p align="center">
   <!-- Tech stack icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45"/> 
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="45" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" />
 </p>
 
 ---
 
 ### 🧠 Skills Summary
 
-| Backend | Mobile | Frontend | Tools |
-|--------|--------|----------|-------|
-| Java, Firebase | Android Java, Room DB | XML, Material UI | Git, GitHub, SQLite, VS Code, Android Studio |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Mobile</th>
+    <th>Frontend</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>Java, Firebase, SQLite, Room DB</td>
+    <td>Android Java</td>
+    <td>XML, Material UI</td>
+    <td>Git, GitHub, VS Code, Android Studio</td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
 
 ### 📊 GitHub Stats
 
