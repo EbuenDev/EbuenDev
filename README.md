@@ -20,7 +20,6 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 
   <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">
   <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">
-  <img src="https://i.postimg.cc/DzV9jcyL/bash.png" height="60">
   <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">
   <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">
   <img src="https://i.postimg.cc/Jz99t5ft/Group-37321.png" height="60">
