@@ -17,7 +17,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45"/>  -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="45" /> -->
-
+  
   <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">
   <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">
   <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">
@@ -28,6 +28,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   <img src="https://i.postimg.cc/25kQjJzC/Group-37324.png" height="60">
   <img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">
   <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">
+  <img src="https://i.postimg.cc/DwRL0Qkp/Light-Room.png" height="60">
   
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
   <img width="56" height="56" alt="Group 37317" src="https://github.com/user-attachments/assets/d2dc21dc-81cd-425c-b4db-b8804f7eee95" /><h1 align="center">
