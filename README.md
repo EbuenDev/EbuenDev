@@ -21,15 +21,15 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">  <!-- Java icon -->
   <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60" />  <!-- Kotlin icon -->
   <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">  <!-- Firebase icon -->
-  <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">
-  <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">
-  <img src="https://i.postimg.cc/Jz99t5ft/Group-37321.png" height="60">
-  <img src="https://i.postimg.cc/W1DB2HfQ/Group-37322.png" height="60">
-  <img src="https://i.postimg.cc/BQwWf0NT/Group-37323.png" height="60">
-  <img src="https://i.postimg.cc/25kQjJzC/Group-37324.png" height="60">
-  <img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">
-  <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">
-  <img src="https://i.postimg.cc/DwRL0Qkp/Light-Room.png" height="60">
+  <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">  <!-- MariaDB icon -->
+  <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">  <!-- Android Studio icon -->
+  <img src="https://i.postimg.cc/Jz99t5ft/Group-37321.png" height="60">  <!-- VS code icon -->
+  <img src="https://i.postimg.cc/W1DB2HfQ/Group-37322.png" height="60">  <!-- Git icon -->
+  <img src="https://i.postimg.cc/BQwWf0NT/Group-37323.png" height="60">  <!-- Github icon -->
+  <img src="https://i.postimg.cc/25kQjJzC/Group-37324.png" height="60">  <!-- Figma icon -->
+  <img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">  <!-- Adobe Photoshop icon -->
+  <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">  <!-- Adobe XD icon -->
+  <img src="https://i.postimg.cc/DwRL0Qkp/Light-Room.png" height="60">  <!-- Adobe Lightroom icon -->
   
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
   <img width="56" height="56" alt="Group 37317" src="https://github.com/user-attachments/assets/d2dc21dc-81cd-425c-b4db-b8804f7eee95" /><h1 align="center">
