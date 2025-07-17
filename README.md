@@ -16,10 +16,11 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   <!-- Tech stack icons -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45"/>  -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="45" /> -->
   
-  <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">
-  <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">
+  
+  <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">  <!-- Java icon -->
+  <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60" />  <!-- Kotlin icon -->
+  <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">  <!-- Firebase icon -->
   <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">
   <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">
   <img src="https://i.postimg.cc/Jz99t5ft/Group-37321.png" height="60">
