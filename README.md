@@ -19,7 +19,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   
   
   <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">  <!-- Java icon -->
-  <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60" />  <!-- Kotlin icon -->
+  <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60">  <!-- Kotlin icon -->
   <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">  <!-- Firebase icon -->
   <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">  <!-- MariaDB icon -->
   <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">  <!-- Android Studio icon -->
