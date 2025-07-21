@@ -53,7 +53,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
     <th>Tools</th>
   </tr>
   <tr>
-    <td>Java, Firebase, SQLite, Room DB</td>
+    <td>Firebase, SQLite, Room DB</td>
     <td>Android Java</td>
     <td>XML, Material UI</td>
     <td>Git, GitHub, VS Code, Android Studio</td>
