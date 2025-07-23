@@ -7,7 +7,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 
 
 <p align="center">
-  <b>Android Developer | Java / Kotlin | Firebase | SQL / Postgre | Git | Adobe XD | Adobe Photoshop </b>
+  <b>Android Developer | Java / Kotlin | Firebase | SQL / Postgre | Git | Springboot | Adobe XD | Adobe Photoshop </b>
 </p>
 
 ---
