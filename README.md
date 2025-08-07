@@ -37,7 +37,7 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
 
 | Backend                          | Mobile                 | Frontend                  | Tools                                      |
 |----------------------------------|------------------------|----------------------------|--------------------------------------------|
-| Spring Boot, PostgreSQL, Docker | Android (Java/Kotlin)  | HTML, XML, Material UI, Figma | Git, GitHub, Postman, VS Code, Android Studio |
+| Spring Boot, PostgreSQL, Docker | Android (Java/Kotlin)  | HTML, XML,Jetpack Compose, Material UI, Figma | Git, GitHub, Postman, VS Code, Android Studio |
 
 </div>
 
