@@ -19,6 +19,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   
   
   <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">  <!-- Java icon -->
+  <img src="https://postimg.cc/23PtKkCY" height="60">
   <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60">  <!-- Kotlin icon -->
   <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">  <!-- Firebase icon -->
   <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">  <!-- MariaDB icon -->
@@ -27,7 +28,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   <img src="https://i.postimg.cc/W1DB2HfQ/Group-37322.png" height="60">  <!-- Git icon -->
   <img src="https://i.postimg.cc/BQwWf0NT/Group-37323.png" height="60">  <!-- Github icon -->
   <img src="https://i.postimg.cc/25kQjJzC/Group-37324.png" height="60">  <!-- Figma icon -->
-  <img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">  <!-- Adobe Photoshop icon -->
+  <!--<img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">-->  <!-- Adobe Photoshop icon -->
   <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">  <!-- Adobe XD icon -->
   <img src="https://i.postimg.cc/DwRL0Qkp/Light-Room.png" height="60">  <!-- Adobe Lightroom icon -->
   
