@@ -55,7 +55,7 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
   <tr>
     <td>Firebase, SQLite, Room DB</td>
     <td>Android Java</td>
-    <td>XML, Material UI</td>
+    <td>XML, Material UI/ Figma</td>
     <td>Git, GitHub, VS Code, Android Studio</td>
   </tr>
 </table>
