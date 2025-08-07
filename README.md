@@ -45,14 +45,14 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
 
 ### 🚧 Current Projects
 
-- 🔐 **Inventory Management System**  
+<!--- 🔐 **Inventory Management System**  
   Full-stack web app using Spring Boot, PostgreSQL, and Docker.  
   Features:
   - Email-based authentication
   - Product CRUD
   - Low stock / Out of stock alerts
   - Dashboard with product metrics
-  - Optional monthly sales graph
+  - Optional monthly sales graph -->
 
 - 📱 **E-MathInsayo Mobile App**  
   Educational Android application developed to assist students in practicing math drills and exercises.  
@@ -62,12 +62,12 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
   - Simple and intuitive UI
   - Built using Java and Android Studio
 
-- 📱 **Barangay Resident App** *(Android)*  
+<!--- 📱 **Barangay Resident App** *(Android)*  
   A simple mobile app built with Java and RoomDB to manage local resident data.  
   Features:
   - Resident CRUD
   - Emergency contact info
-  - Offline support
+  - Offline support-->
 
 - 📦 **Personal Portfolio API (WIP)**  
   Backend-only REST API built with Spring Boot to power a future personal website.  
