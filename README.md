@@ -1,45 +1,32 @@
 # 🔥 Ebuen Dev
 
-**`Android Developer (UI/UX | musician | Mountaineer)`**
+**`Full-Stack Developer (Spring Boot | Android | Musician | Mountaineer)`**
 
-I'm an entry-level Android programmer and a musician from the Philippines. I enjoy building mobile applications using Java and Room Database, especially projects that improve local community systems. Outside of coding, I spend time creating music and exploring creativity in sound and software.
-Currently, I'm focused on learning better mobile architecture, publishing apps, and combining tech with real-world impact.
+I'm a self-taught developer and Computer Science graduate from the Philippines. I started in mobile development, building Android apps with Java and Room Database to solve real-world problems in my community. Now, I'm transitioning to full-stack web development—focused on Java Spring Boot for backend development, PostgreSQL for database management, Postman for API testing, and Docker for containerization.
 
+Outside of tech, I'm also a musician and mountaineer—always exploring new ideas, whether on a trail or in code.
 
 <p align="center">
-  <b>Android Developer | Java / Kotlin | Firebase | SQL / Postgre | Git | Springboot | Adobe XD | Adobe Photoshop </b>
+  <b>B.S. in Computer Science | Java / Kotlin | Spring Boot | PostgreSQL | Docker | Postman | Firebase | Git | HTML | Figma | Android Studio</b>
 </p>
 
 ---
 
+### 🛠 Tech Stack & Tools
+
 <p align="center">
-  <!-- Tech stack icons -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45"/>  -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/> -->
-  
-  
-  <img src="https://i.postimg.cc/FKdKcpCS/java.png" height="60">  <!-- Java icon -->
-  <img src="https://i.postimg.cc/ZKRh0ngW/springboot.png" height="60"> <!-- Springboot-->
-  <img src="https://i.postimg.cc/34LkxfJj/postman.png" height="60"> <!-- Postman -->
-  <img src="https://i.postimg.cc/gXcwdbdk/postgresql.png" height="60"> <!-- Postgresql-->
-  <img src="https://i.postimg.cc/SR9m81Yg/kotlin.png" height="60">  <!-- Kotlin icon -->
-  <img src="https://i.postimg.cc/j56tQFHD/firebase.png" height="60">  <!-- Firebase icon -->
-  <img src="https://i.postimg.cc/TPzHY2Wb/Group-37316.png" height="60">  <!-- MariaDB icon -->
-  <img src="https://i.postimg.cc/XYvPszbr/Group-37320.png" height="60">  <!-- Android Studio icon -->
-  <img src="https://i.postimg.cc/Jz99t5ft/Group-37321.png" height="60">  <!-- VS code icon -->
-  <img src="https://i.postimg.cc/W1DB2HfQ/Group-37322.png" height="60">  <!-- Git icon -->
-  <img src="https://i.postimg.cc/BQwWf0NT/Group-37323.png" height="60">  <!-- Github icon -->
-  <img src="https://i.postimg.cc/25kQjJzC/Group-37324.png" height="60">  <!-- Figma icon -->
-  <!--<img src="https://i.postimg.cc/zX7MS19m/Group-37318.png" height="60">-->  <!-- Adobe Photoshop icon -->
-  <img src="https://i.postimg.cc/fbtrNSkZ/Group-37319.png" height="60">  <!-- Adobe XD icon -->
-  <!--<img src="https://i.postimg.cc/DwRL0Qkp/Light-Room.png" height="60">-->  <!-- Adobe Lightroom icon -->
-  
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
-  <img width="56" height="56" alt="Group 37317" src="https://github.com/user-attachments/assets/d2dc21dc-81cd-425c-b4db-b8804f7eee95" /><h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" /> -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ---
@@ -48,25 +35,48 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Backend</th>
-    <th>Mobile</th>
-    <th>Frontend</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>Firebase, SQLite, Room DB</td>
-    <td>Android Java</td>
-    <td>XML, Material UI/ Figma</td>
-    <td>Git, GitHub, VS Code, Android Studio</td>
-  </tr>
-</table>
+| Backend                          | Mobile                 | Frontend                  | Tools                                      |
+|----------------------------------|------------------------|----------------------------|--------------------------------------------|
+| Spring Boot, PostgreSQL, Docker | Android (Java/Kotlin)  | HTML, XML, Material UI, Figma | Git, GitHub, Postman, VS Code, Android Studio |
 
 </div>
 
 ---
 
+### 🚧 Current Projects
+
+- 🔐 **Inventory Management System**  
+  Full-stack web app using Spring Boot, PostgreSQL, and Docker.  
+  Features:
+  - Email-based authentication
+  - Product CRUD
+  - Low stock / Out of stock alerts
+  - Dashboard with product metrics
+  - Optional monthly sales graph
+
+- 📱 **E-MathInsayo Mobile App**  
+  Educational Android application developed to assist students in practicing math drills and exercises.  
+  Features:
+  - Interactive math quiz
+  - Score tracking
+  - Simple and intuitive UI
+  - Built using Java and Android Studio
+
+- 📱 **Barangay Resident App** *(Android)*  
+  A simple mobile app built with Java and RoomDB to manage local resident data.  
+  Features:
+  - Resident CRUD
+  - Emergency contact info
+  - Offline support
+
+- 📦 **Personal Portfolio API (WIP)**  
+  Backend-only REST API built with Spring Boot to power a future personal website.  
+  Includes:
+  - Portfolio projects endpoint
+  - Contact form handler
+  - Admin-authenticated CRUD
+
+---
 
 ### 📊 GitHub Stats
 
@@ -77,8 +87,6 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 
 ---
 
-
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -88,4 +96,3 @@ Currently, I'm focused on learning better mobile architecture, publishing apps, 
 </p>
 
 ---
-
