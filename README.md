@@ -69,12 +69,12 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
   - Emergency contact info
   - Offline support-->
 
-- 📦 **Personal Portfolio API (WIP)**  
+<!-- - 📦 **Personal Portfolio API (WIP)**  
   Backend-only REST API built with Spring Boot to power a future personal website.  
   Includes:
   - Portfolio projects endpoint
   - Contact form handler
-  - Admin-authenticated CRUD
+  - Admin-authenticated CRUD -->
 
 ---
 
