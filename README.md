@@ -7,7 +7,7 @@ I'm a self-taught developer and Computer Science graduate from the Philippines. 
 Outside of tech, I'm also a musician and mountaineer—always exploring new ideas, whether on a trail or in code.
 
 <p align="center">
-  <b>B.S. in Computer Science | Java / Kotlin | Spring Boot | PostgreSQL | Docker | Postman | Firebase | Git | HTML | Figma | Android Studio</b>
+  <b>B.S. in Computer Science | Java / Kotlin | Spring Boot | Angular | TypeScript | PostgreSQL | Docker | Postman | Firebase | Git | HTML | Figma | Android Studio</b>
 </p>
 
 ---
@@ -18,6 +18,8 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -29,7 +31,6 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
-
 ---
 
 ### 🧠 Skills Summary
