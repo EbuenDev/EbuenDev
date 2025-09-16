@@ -64,6 +64,17 @@ Outside of tech, I'm also a musician and mountaineer—always exploring new idea
   - Simple and intuitive UI
   - Built using Java and Android Studio
 
+- 🐍 **SnakeClassic Mobile App**
+
+  A classic snake game for Android, bringing back the retro feel with simple controls and engaging gameplay.
+  Features:
+  - Collision Detection
+  - Score Tracking
+  - Immersive Audio
+  - Smooth Animation
+  - Consistent Retro Theme
+
+
 <!--- 📱 **Barangay Resident App** *(Android)*  
   A simple mobile app built with Java and RoomDB to manage local resident data.  
   Features:
